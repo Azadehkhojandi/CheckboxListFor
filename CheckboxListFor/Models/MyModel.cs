@@ -23,11 +23,11 @@ namespace CheckboxListFor.Models
         [Required(ErrorMessage="Please provide your name.")]
         public string Name { get; set; }
 
-        [RequiredCheckboxAttribute(2)]
+        [RequiredCheckbox(2)]
 		public IList<MyType> SelectedLanguages { get; set; }
 		public Dictionary<MyType, string> LanguageOptions { get; set; }
 
-        [RequiredCheckboxAttribute(1)]
+        [RequiredCheckbox(1)]
         public IList<int> SelectedNumbers { get; set; }
         public Dictionary<int, string> NumberOptions { get; set; }
 	}

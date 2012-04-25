@@ -24,7 +24,7 @@ namespace CheckboxListFor.Controllers
 				string lanuguages = model.ListofSelectedMyType.Aggregate("", (current, item) => (String.IsNullOrEmpty(current)? current : current+",") + model.ListofDisplayCaptionsOfMyType[item].ToString());
                 string numbers = model.ListofSelectedInt.Aggregate("", (current, item) => (String.IsNullOrEmpty(current) ? current : current + ",") + model.ListofDisplayCaptionsOfInt[item].ToString());
 
-                ViewBag.Message = string.Format("Hi {0}, Languages you know: {1}. Selected number{2}: {3} ", model.Name, lanuguages,numbers.Count()>1?"s":"",numbers);
+                ViewBag.Message = string.Format("Hi {0}, Language{1} you know: {2}. Selected number{3}: {4} ", model.Name, model.ListofSelectedMyType.Count() > 1 ? "s" : "", lanuguages, model.ListofSelectedInt.Count() > 1 ? "s" : "", numbers);
 			}
 			return View(model);
 		}

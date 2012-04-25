@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="190BDA45-731B-4397-85A4-58E0DEFF5D66" ModuleId="CheckboxListFor" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System.Core" />
+  <Module PersistentId="System.Web.WebPages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.WebPages" />
+  <Module PersistentId="System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.ComponentModel.DataAnnotations" />
+</Modules>

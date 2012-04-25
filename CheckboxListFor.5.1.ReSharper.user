@@ -1,0 +1,151 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="d:Miscellaneous Files/f:System.Web.Mvc.TagBuilder.cs/l:c!?users?azadeh.khojandi?documents?visual studio 2010?Projects?CheckboxListFor?_ReSharper.CheckboxListFor?DecompilerCache?metadata?System.Web.WebPages-822b?System.Web.Mvc.TagBuilder.cs" caret="488" fromTop="10" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Views/f:_ViewStart.cshtml" caret="8" fromTop="1" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Views/f:Web.config" caret="0" fromTop="0" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Controllers/f:AccountController.cs" caret="0" fromTop="0" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Controllers/f:HomeController.cs" caret="504" fromTop="24" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="337" fromTop="15" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:RequiredCheckboxValidation.js" caret="504" fromTop="17" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:RequiredCheckboxAttribute.cs" caret="1399" fromTop="46" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Models/f:MyModel.cs" caret="133" fromTop="4" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Views/d:Shared/f:_Layout.cshtml" caret="715" fromTop="13" />
+      <File id="d:Miscellaneous Files/f:System.ComponentModel.DataAnnotations.ValidationAttribute.cs/l:C!?Users?azadeh.khojandi?Documents?Visual Studio 2010?Projects?CheckboxListFor?_ReSharper.CheckboxListFor?DecompilerCache?metadata?System.ComponentModel.DataAnnotations-dfa1?System.ComponentModel.DataAnnotations.ValidationAttribute.cs" caret="452" fromTop="9" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Views/d:Home/f:Index.cshtml" caret="639" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="5456" fromTop="30" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="5456" fromTop="28" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="5456" fromTop="35" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="5456" fromTop="35" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="5320" fromTop="13" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="5461" fromTop="24" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="5456" fromTop="16" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="6219" fromTop="33" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="5722" fromTop="23" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="6217" fromTop="29" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="898" fromTop="23" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Views/d:Home/f:Index.cshtml" caret="281" fromTop="11" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Controllers/f:HomeController.cs" caret="458" fromTop="19" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Controllers/f:HomeController.cs" caret="391" fromTop="15" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Controllers/f:HomeController.cs" caret="724" fromTop="26" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Controllers/f:HomeController.cs" caret="355" fromTop="14" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Models/f:MyModel.cs" caret="640" fromTop="27" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Models/f:MyModel.cs" caret="600" fromTop="25" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="1048" fromTop="22" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Views/d:Home/f:Index.cshtml" caret="639" fromTop="22" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Controllers/f:HomeController.cs" caret="639" fromTop="24" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:RequiredCheckboxValidation.js" caret="504" fromTop="16" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:RequiredCheckboxValidation.js" caret="2" fromTop="1" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Views/d:Shared/f:_Layout.cshtml" caret="832" fromTop="15" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Views/d:Shared/f:_Layout.cshtml" caret="641" fromTop="7" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:RequiredCheckboxAttribute.cs" caret="1800" fromTop="17" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:RequiredCheckboxAttribute.cs" caret="293" fromTop="11" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:CheckBoxHtmlHelper.cs" caret="337" fromTop="15" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Extensions/f:RequiredCheckboxAttribute.cs" caret="1188" fromTop="34" />
+      <File id="190BDA45-731B-4397-85A4-58E0DEFF5D66/d:Models/f:MyModel.cs" caret="704" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.6\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="result" priority="2" />
+      <Item value="sbyte" priority="0" />
+      <Item value="if" priority="3" />
+      <Item value="null" priority="2" />
+      <Item value="throw" priority="0" />
+      <Item value="new" priority="8" />
+      <Item value="Exception" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="bool" priority="1" />
+      <Item value="T`0" priority="2" />
+      <Item value="List" priority="1" />
+      <Item value="ischecked" priority="1" />
+      <Item value="item" priority="1" />
+      <Item value="public" priority="3" />
+      <Item value="enum" priority="0" />
+      <Item value="set" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="SelectedBoolean" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="SelectedMyType" priority="0" />
+      <Item value="Type3" priority="1" />
+      <Item value="ListofSelectedMyType" priority="0" />
+      <Item value="List&lt;MyType&gt;" priority="0" />
+      <Item value="MyType`0" priority="1" />
+      <Item value="Expression&lt;Func&lt;TModel,T&gt;&gt;" priority="0" />
+      <Item value="d" priority="0" />
+      <Item value="Expression&lt;Func&lt;TModel,IEnumerable&lt;T&gt;&gt;&gt;" priority="0" />
+      <Item value="t" priority="0" />
+      <Item value="decimal" priority="0" />
+      <Item value="x" priority="1" />
+      <Item value="HttpPost" priority="0" />
+      <Item value="model" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="selectedItems" priority="0" />
+      <Item value="ErrorMessage" priority="0" />
+      <Item value="MyModel`0" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="Dictionary&lt;MyType,string&gt;" priority="0" />
+      <Item value="ModelBinderAttribute`0" priority="0" />
+      <Item value="ModelState" priority="0" />
+      <Item value="current" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Array">
+      <Item value="GetEnumerator`0" priority="0" />
+      <Item value="Cast`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="CheckBox`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="BaseType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CheckboxListFor.Models.MyType">
+      <Item value="Type1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.Expressions.Expression`1">
+      <Item value="Body" priority="0" />
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CheckboxListFor.Models.MyModel">
+      <Item value="ListofSelectedMyType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CheckboxListFor.Models.MyType">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelStateDictionary">
+      <Item value="IsValid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

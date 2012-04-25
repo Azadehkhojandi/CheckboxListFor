@@ -1,0 +1,38 @@
+﻿@using CheckboxListFor.Extensions
+
+@model CheckboxListFor.Models.MyModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>@ViewBag.Message</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+
+        <p>
+        @Html.LabelFor(x => x.Name, "Name: ")
+	    @Html.TextBoxFor(x => x.Name)
+        @Html.ValidationMessageFor(x => x.Name)
+        </p>
+    
+        <p>
+        @Html.LabelFor(x => x.ListofSelectedMyType,"What Languages do you know?")
+	    @Html.CheckBoxListFor(x => x.ListofSelectedMyType, x => x.ListofDisplayCaptionsOfMyType, new Dictionary<string, object> { { "@class", "test" } })
+	    @Html.ValidationMessageFor(x => x.ListofSelectedMyType)
+        </p>
+    
+        <p>
+        @Html.LabelFor(x => x.ListofSelectedInt, "Select your favourite numbers.")
+        @Html.CheckBoxListFor(x => x.ListofSelectedInt, x => x.ListofDisplayCaptionsOfInt, new Dictionary<string, object> { { "@class", "test" } })
+	    @Html.ValidationMessageFor(x => x.ListofSelectedInt)
+        </p>
+    
+	    <p>
+	    <button type='submit'>Submit</button>
+	    </p>
+    
+    </div>
+}
+
